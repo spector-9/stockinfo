@@ -7,3 +7,7 @@ Output is properly formatted.
 Script is slow but good enough if you just want to take a look at prices and not follow them.
 You can redirect output to conky,polybar or send notifications according to your needs.  
 **MAKE SURE NOT TO RUN THE SCRIPT CONTINUOUSLY AFTER EVERY FEW SECONDS BECAUSE IT PUTS LOAD ON THE SITE.**
+
+
+There are few examples on how to use it inside the script itself.
+Obviously the script can be optimized, I will try to when it's required.
